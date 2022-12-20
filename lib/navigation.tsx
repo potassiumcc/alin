@@ -20,8 +20,8 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 		{
 			type: NavigationItemType.LINK,
 			icon: '',
-			text: 'Telegram',
-			href: 'https://t.me/TZStock',
+			text: 'Discord',
+			href: 'https://discord.gg/tzstockz',
 			external: true,
 		},
 	],
