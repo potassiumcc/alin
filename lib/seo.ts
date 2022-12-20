@@ -18,7 +18,7 @@ export function useSeoProps(
 		openGraph: {
 			title,
 			description,
-			site_name: 'enviroment',
+			site_name: '! $Al1nutz#0001',
 			url: `https://alinutz.xyz/${router.asPath}`,
 			type: 'website',
 			images: [
