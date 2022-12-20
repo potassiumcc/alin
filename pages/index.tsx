@@ -49,7 +49,7 @@ export default function HomePage() {
 						}}
 						className="text-gray-500 dark:text-white text-5xl sm:text-6xl md:text-6xl lg:text-8xl tracking-tight font-extrabold">
 						Hey <span className="inline-block origin-70 hover:(animate-wave)">👋</span>{' '}
-						I&apos;m Alinutz, <br className="hidden sm:block" />a{' '}
+						I&apos;m Alinutz, <br className="hidden sm:block" />{' '}
 						<Pill.Standard className="mt-4">I hope u like my products and servicies</Pill.Standard>
 					</Animate>
 
