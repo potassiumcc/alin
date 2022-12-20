@@ -19,6 +19,7 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 	[
 		{
 			type: NavigationItemType.LINK,
+			icon: '',
 			text: 'Telegram',
 			href: 'https://t.me/TZStock',
 			external: true,
