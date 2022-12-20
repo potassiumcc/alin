@@ -142,7 +142,7 @@ export default function HomePage() {
 										delay: 0.1 * (index + 2) + 0.5,
 									}}>
 									<Button.Outline href='https://paypal.me/alinutzseller/'>
-										<span>PayPal/span>
+										<span>PayPal</span>
 									</Button.Outline>
 								</Animate>
 							);
