@@ -1,0 +1,22 @@
+{
+	"extends": "next/core-web-vitals",
+	"rules": {
+	  "react/no-unknown-property": [
+		2,
+		{
+		  "ignore": [
+			"jsx",
+			"global"
+		  ]
+		}
+	  ]
+	},
+	"globals": {
+		"React": "writable"
+	  },
+	  "settings": {
+		"react": {
+			"version": "detect"
+		}
+	}
+  }

@@ -1,0 +1,20 @@
+{
+	"$schema": "https://openapi.vercel.sh/vercel.json",
+	"version": 2,
+	"alias": "alinutz.xyz",
+	"cleanUrls": true,
+	"public": true,
+	"regions": ["lhr1"],
+	"redirects": [
+		{ "source": "/calendar", "destination": "https://cal.com/vawnaire" },
+		{ "source": "/cv", "destination": "https://read.cv/vawnaire" },
+		{ "source": "/github", "destination": "https://github.com/vawnair" },
+		{ "source": "/linkedin", "destination": "https://www.linkedin.com/in/vawnaire" },
+		{ "source": "/meeting", "destination": "https://cal.com/vawnaire" },
+		{ "source": "/portfolio", "destination": "/projects" },
+		{ "source": "/resume", "destination": "https://read.cv/vawnaire" },
+		{ "source": "/schedule", "destination": "https://cal.com/vawnaire" },
+		{ "source": "/twitter", "destination": "https://twitter.com/vawnaire" },
+		{ "source": "/contact", "destination": "https://twitter.com/direct_messages/create/vawnaire" }
+	]
+}
