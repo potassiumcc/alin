@@ -95,7 +95,7 @@ export default function HomePage() {
 									transition={{
 										delay: 0.1 * (index + 2) + 0.5,
 									}}>
-									<Button.Outline href='https://discord.gg/tzstockz'>
+									<Button.Outline href='https://discord.gg/9AvDMrq7Wa'>
 										<span>Discord server</span>
 									</Button.Outline>
 								</Animate>
