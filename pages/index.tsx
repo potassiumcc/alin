@@ -1,3 +1,4 @@
+/* eslint react/no-unescaped-entities */
 import dynamic from 'next/dynamic';
 import { differenceInYears } from 'date-fns';
 import { Icon } from '@iconify/react';
