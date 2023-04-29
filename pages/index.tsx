@@ -50,8 +50,8 @@ export default function HomePage() {
 						}}
 						className="text-gray-500 dark:text-white text-5xl sm:text-6xl md:text-6xl lg:text-6xl tracking-tight font-extrabold">
 						Welcome <span className="inline-block origin-70 hover:(animate-wave)">to</span>{' '}
-						I&apos;my site., <br className="hidden sm:block" />{' '}
-						<Pill.Standard className="mt-4">I'm Alinutz a Top G in the making And If You Want Too Check The Things Below 👇 🚀</Pill.Standard>
+						my site, <br className="hidden sm:block" />{''}
+						<Pill.Standard className="mt-4">I&apos;m Alinutz a Top G in the making And If You Want Too Check The Things Below 👇 🚀</Pill.Standard>
 					</Animate>
 
 
