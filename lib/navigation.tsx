@@ -21,7 +21,16 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 			type: NavigationItemType.LINK,
 			icon: '',
 			text: 'Discord',
-			href: 'https://discord.gg/tzstockz',
+			href: 'https://discord.gg/Ywcd27qNbV',
+			external: true,
+		},
+	],
+	[
+		{
+			type: NavigationItemType.LINK,
+			icon: '',
+			text: 'Telegram',
+			href: 'https://t.me/Al1nutzMoney',
 			external: true,
 		},
 	],
