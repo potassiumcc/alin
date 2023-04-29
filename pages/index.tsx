@@ -48,9 +48,10 @@ export default function HomePage() {
 							scale: [0.75, 1],
 						}}
 						className="text-gray-500 dark:text-white text-5xl sm:text-6xl md:text-6xl lg:text-6xl tracking-tight font-extrabold">
-						Hey <span className="inline-block origin-70 hover:(animate-wave)">👋</span>{' '}
-						I&apos;m Alinutz, <br className="hidden sm:block" />{' '}
-						<Pill.Standard className="mt-4">I hope u like my products and servicies</Pill.Standard>
+						Welcome <span className="inline-block origin-70 hover:(animate-wave)">to</span>{' '}
+						I&apos;my site., <br className="hidden sm:block" />{' '}
+						<Pill.Standard className="mt-4">I'm Alinutz a Top G in the making
+And If You Want Too Check The Things Below 👇 🚀</Pill.Standard>
 					</Animate>
 
 
@@ -95,7 +96,7 @@ export default function HomePage() {
 									transition={{
 										delay: 0.1 * (index + 2) + 0.5,
 									}}>
-									<Button.Outline href='https://discord.gg/9AvDMrq7Wa'>
+									<Button.Outline href='https://discord.gg/Ywcd27qNbV'>
 										<span>Discord server</span>
 									</Button.Outline>
 								</Animate>
