@@ -50,7 +50,8 @@ export default function HomePage() {
 						className="text-gray-500 dark:text-white text-5xl sm:text-6xl md:text-6xl lg:text-6xl tracking-tight font-extrabold">
 						Welcome <span className="inline-block origin-70 hover:(animate-wave)">to</span>{' '}
 						my site, <br className="hidden sm:block" />{''}
-						<Pill.Standard className="mt-4">I&apos;m Alinutz a Top G in the making And If You Want Too Check The Things Below 👇 🚀</Pill.Standard>
+						<Pill.Standard className="mt-4">I&apos;m Alinutz a Top G in the making
+And If You Want To Make A Lot Of Cash, Check The Things Below 👇 🚀</Pill.Standard>
 					</Animate>
 
 
@@ -97,29 +98,6 @@ export default function HomePage() {
 									}}>
 									<Button.Outline href='https://discord.gg/Ywcd27qNbV'>
 										<span>Discord server</span>
-									</Button.Outline>
-								</Animate>
-							);
-						})}
-					</div>
-					<div className="flex flex-col sm:flex-row items-center justify-center sm:space-x-4 space-y-4 sm:space-y-0 w-full mt-8 sm:mt-4">
-
-						{ACTIONS.map((action, index) => {
-							if (action.type !== NavigationItemType.LINK) return null;
-
-							return (
-								<Animate
-									animation={{
-										y: [50, 0],
-										opacity: [0, 1],
-									}}
-									className="w-full sm:w-auto"
-									key={index}
-									transition={{
-										delay: 0.1 * (index + 2) + 0.5,
-									}}>
-									<Button.Outline href='https://alinutzshop.mysellix.io/'>
-										<span>Sellix</span>
 									</Button.Outline>
 								</Animate>
 							);
