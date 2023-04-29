@@ -20,8 +20,8 @@ const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
 		external: true,
-		href: 'https://t.me/tzstock',
-		icon: <Icon className="mr-3" icon="feather:github" />,
+		href: 'https://t.me/Al1nutzMoney',
+		icon: '',
 		text: 'Telegram',
 	},
 ];
